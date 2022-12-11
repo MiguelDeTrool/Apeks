@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.3mm"
+   height="128.5mm"
+   viewBox="0 0 40.3 128.5"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Apeks Panel.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.719277"
+     inkscape:cx="0"
+     inkscape:cy="351.60129"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g27" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g17">
+    <rect
+       x="0"
+       y="0"
+       width="40.299999"
+       height="128.5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect15" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g19">
+    <path
+       style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 128.5 H 40.3 V 0 Z"
+       id="path1786"
+       inkscape:label="Edge"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g21" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g23">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2342-6-6"
+       cx="13.48"
+       cy="96.809998"
+       inkscape:label="LED Trig 2"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2342-6"
+       cx="13.48"
+       cy="67.599998"
+       inkscape:label="LED Trig 1"
+       r="1.55" />
+  </g>
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g25" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g27"
+     style="display:inline" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g29"
+     style="display:inline">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2557"
+       cx="13.48"
+       cy="96.809998"
+       inkscape:label="LED Trig 2"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2559"
+       cx="13.48"
+       cy="67.599998"
+       inkscape:label="LED Trig 1"
+       r="1.55" />
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g31"
+     style="display:inline">
+    <rect
+       style="fill:#000000;stroke-width:0.18;stroke-dasharray:2.16, 2.16"
+       id="rect603"
+       width="10"
+       height="15"
+       x="28.16"
+       y="100.5"
+       ry="1.5"
+       inkscape:label="RectO2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="28.831425"
+       y="104.21471"
+       id="text1350"
+       inkscape:label="Out 2"><tspan
+         sodipodi:role="line"
+         id="tspan1348"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="28.831425"
+         y="104.21471">Out 2</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.18;stroke-dasharray:2.16, 2.16"
+       id="rect601"
+       width="10"
+       height="15"
+       x="16.73"
+       y="100.5"
+       ry="1.5"
+       inkscape:label="RectO1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="17.37673"
+       y="104.21471"
+       id="text609"
+       inkscape:label="Out 1"><tspan
+         sodipodi:role="line"
+         id="tspan607"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="17.37673"
+         y="104.21471">Out 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="2.7855496"
+       y="104.32055"
+       id="text387"
+       inkscape:label="Trig 2"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="2.7855496"
+         y="104.32055">Trig 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="2.7608552"
+       y="75.11055"
+       id="text333"
+       inkscape:label="Trig 1"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="2.7608552"
+         y="75.11055">Trig 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="8.671917"
+       y="56.110027"
+       id="text6491"
+       inkscape:label="Drum"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6489"
+         style="stroke-width:0.264583"
+         x="8.671917"
+         y="56.110027">Drum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="8.6223888"
+       y="50.378414"
+       id="text6479"
+       inkscape:label="Tap"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6477"
+         style="stroke-width:0.264583"
+         x="8.6223888"
+         y="50.378414">Tap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="8.671917"
+       y="45.331192"
+       id="text6475"
+       inkscape:label="LFO"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6473"
+         style="stroke-width:0.264583"
+         x="8.671917"
+         y="45.331192">LFO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+       x="8.671917"
+       y="39.931194"
+       id="text6471"
+       inkscape:label="Env"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6469"
+         style="stroke-width:0.264583"
+         x="8.671917"
+         y="39.931194">Env</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;stroke-width:0.264583"
+       x="8.8518333"
+       y="26.952497"
+       id="text6509"
+       inkscape:label="Split"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6507"
+         style="stroke-width:0.264583"
+         x="8.8518333"
+         y="26.952497">Split</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.86533px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.2149"
+       x="26.598997"
+       y="81.510002"
+       id="text1816"
+       inkscape:label="4"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1814"
+         style="stroke-width:0.2149"
+         x="26.598997"
+         y="81.510002">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77008px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.207756"
+       x="26.692385"
+       y="59.566757"
+       id="text1761"
+       inkscape:label="3"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1759"
+         style="stroke-width:0.207756"
+         x="26.692385"
+         y="59.566757">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.8169px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.211268"
+       x="26.602114"
+       y="37.689999"
+       id="text1757"
+       inkscape:label="2"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1755"
+         style="stroke-width:0.211268"
+         x="26.602114"
+         y="37.689999">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.86533px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.2149"
+       x="26.426779"
+       y="15.780001"
+       id="text1414"
+       inkscape:label="1"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1412"
+         style="stroke-width:0.2149"
+         x="26.426779"
+         y="15.780001">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:9.78856px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.293655"
+       x="12.186766"
+       y="8.4935341"
+       id="text6019"
+       inkscape:label="Apeks"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan6017"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:9.78856px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.293655"
+         x="12.186766"
+         y="8.4935341">Apeks</tspan></text>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g33" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g35">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2509"
+       cx="7.1300001"
+       cy="111.1"
+       inkscape:label="Jack T2"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2489"
+       cx="7.1300001"
+       cy="96.809998"
+       inkscape:label="SW T2"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2491"
+       cx="7.1300001"
+       cy="81.889999"
+       inkscape:label="Jack T1"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2399"
+       cx="7.1300001"
+       cy="67.599998"
+       inkscape:label="SW T1"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2342"
+       cx="5.2199998"
+       cy="54.900002"
+       inkscape:label="LED Drum"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2340"
+       cx="5.2199998"
+       cy="49.5"
+       inkscape:label="LED Tap"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2338"
+       cx="5.2199998"
+       cy="44.099998"
+       inkscape:label="LED LFO"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2316"
+       cx="5.2199998"
+       cy="38.700001"
+       inkscape:label="LED Env"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18;stroke-dasharray:2.16, 2.16;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2025-1"
+       cx="5.2199998"
+       cy="32.349998"
+       inkscape:label="SW Mode"
+       r="2.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2025-5"
+       cx="5.2199998"
+       cy="26"
+       inkscape:label="LED Split"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2025"
+       cx="5.2199998"
+       cy="19.65"
+       inkscape:label="SW Split"
+       r="2.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2509-5"
+       cx="21.73"
+       cy="111.1"
+       inkscape:label="Jack O1"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214617;stroke-dasharray:2.57537, 2.57537;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3931"
+       cx="33.16"
+       cy="111.1"
+       inkscape:label="Jack O2"
+       r="3.0999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249233;stroke-dasharray:2.99076, 2.99076;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3931-6"
+       cx="27.450001"
+       cy="89.510002"
+       inkscape:label="Pot 4"
+       r="3.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249233;stroke-dasharray:2.99076, 2.99076;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4174"
+       cx="27.450001"
+       cy="67.599998"
+       inkscape:label="Pot 3"
+       r="3.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249233;stroke-dasharray:2.99076, 2.99076;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4176"
+       cx="27.450001"
+       cy="45.689999"
+       inkscape:label="Pot 2"
+       r="3.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249233;stroke-dasharray:2.99076, 2.99076;stroke-dashoffset:0;stroke-opacity:1;image-rendering:auto"
+       id="circle4178"
+       cx="27.450001"
+       cy="23.780001"
+       inkscape:label="Pot 1"
+       r="3.5999999" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle364"
+       cx="7.4499998"
+       cy="125.5"
+       inkscape:label="Screw BL"
+       r="1.55" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107308;stroke-dasharray:1.28769, 1.28769;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle360"
+       cx="7.4499998"
+       cy="3"
+       inkscape:label="Screw TL"
+       r="1.55" />
+  </g>
+</svg>

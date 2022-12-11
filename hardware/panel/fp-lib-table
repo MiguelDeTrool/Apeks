@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Apeks Panel")(type "KiCad")(uri "${KIPRJMOD}/Apeks Panel.pretty")(options "")(descr ""))
+)

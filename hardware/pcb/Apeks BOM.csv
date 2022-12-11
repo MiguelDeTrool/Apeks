@@ -1,0 +1,43 @@
+Designator,Description,Quantity,Designation,Link,Notes
+C1,C_Disc_D3.4mm_W2.1mm_P2.50mm,1,0.47uf,https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html,Same link for all ceramic capacitors
+"C11,C12,C13",C_Disc_D3.4mm_W2.1mm_P2.50mm,3,100n,,
+"C4,C2,C3,C5",C_Disc_D3.4mm_W2.1mm_P2.50mm,4,220p,,
+"C6,C7",CP_Radial_D5.0mm_P2.50mm,2,22uf,https://www.taydaelectronics.com/22uf-25v-85c-radial-electrolytic-capacitor-5x11mm.html,
+C8,CP_Radial_D5.0mm_P2.50mm,1,"0,33u",https://www.taydaelectronics.com/0-33-uf-50v-85c-radial-electrolytic-capacitor.html,
+"C9,C10",C_Disc_D3.4mm_W2.1mm_P2.50mm,2,39p,,
+"D1,D2",D_DO-41_SOD81_P10.16mm_Horizontal,2,1N5817,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html,1N5819 is actually cheaper
+"D3,D4,D5,D6,D7,D8,D9",LED_D3.0mm,7,LED,https://www.taydaelectronics.com/led-3mm-green.html,"Depending on what LEDs you get, they might be too bright and you’ll need bigger resistors for them"
+J1,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles,1,in1,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,Same link for all jacks
+J2,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles,1,in2,,
+J3,IDC-Header_2x05_P2.54mm_Vertical,1,Eurorack Power,https://www.taydaelectronics.com/10-pin-box-header-connector-2-54mm.html,
+J4,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles,1,out1,,
+J5,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles,1,out2,,
+J6,PinHeader_1x11_P2.54mm_Vertical,1,Conn_01x11,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-pin-header-strip.html,Cut down to size
+J7,PinHeader_1x10_P2.54mm_Vertical,1,Conn_01x10,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-female-pin-header.html,Cut down to size
+J8,PinSocket_1x11_P2.54mm_Vertical,1,Conn_01x11,,
+J9,PinSocket_1x10_P2.54mm_Vertical,1,Conn_01x10,,
+"Q1,Q2",TO-92_Wide,2,2N3904,https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html,
+"R1,R3,R14,R15",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,4,100k,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html,Same link for all resistors
+"R10,R12",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,200k,,
+"R11,R18,R21,R22,R23,R24,R19,R20,R13",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,9,2k,,
+"R16,R17",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,1k,,
+"R2,R5",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,10k,,
+R4,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,3.3k,,
+"R6,R7,R8,R9,R25,R26",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,6,39k,,
+"RV1,RV2,RV3,RV4",Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles,4,B10k,https://www.taydaelectronics.com/tayda-10k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm-6-35-mm.html,
+"SW1,SW2",SW_PUSH_6mm,2,SW_Push_Dual,https://www.aliexpress.com/item/32726374514.html,"Ideally, you want 6*6mm tact switches with square heads, that will fit the cap nicely. If you want to only order from tayda, you can probably force the cap onto a round head switch, like this https://www.taydaelectronics.com/tact-switch-6-6mm-7-3mm-through-hole-spst-no.html"
+SW3,LP4OA1PBCT,1,SW_TRIG1,https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html,"For the original illuminated buttons with 8mm head, you can get these ones https://www.aliexpress.com/item/4000415375387.html?gatewayAdapt=4itemAdapt"
+SW4,LP4OA1PBCT,1,SW_TRIG2,,"Depending on which buttons you use, you may have to do some light re-wiring by adding jumpers between certain pins. On the board, the two middle pins need to connect to the two bottom pins when the button is pressed."
+U1,BluePill_STM32F103C,1,Bluepill,,"Needs STM32F103CBT6 version, with 128kb memory. You can only get clones of these currently. I’m working on a smaller version of firmware to work on 64kb."
+U2,TO-92_Inline_Wide,1,LM4040LP-10,,"Not common on ali sites, since the output is not v/oct, it’s easiest to just replace it with a zener like this: https://www.taydaelectronics.com/1n4740a-1n4740-zener-diode-10v-1w.html"
+U3,DIP-14_W7.62mm_Socket_LongPads,1,TL074,https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html,
+U4,DIP-8_W7.62mm,1,MCP4822,,"Can be found on ali sites, like here: https://www.aliexpress.com/item/33020375029.html"
+U5,TO-220-3_Horizontal_TabDown,1,LM7805,https://www.taydaelectronics.com/lm7805-l7805-7805-voltage-regulator-ic-5v-1-5a.html,
+,,,,,
+Extras,,,,,
+,STM32 Blue Pill headers,2,,https://www.taydaelectronics.com/20-pin-2-54-mm-single-row-female-pin-header.html,"Some clone boards have a 5V pin at the top right, instead of the usual ground. Cut the pin off if it has 5V."
+,Tactile switch caps,2,,https://www.taydaelectronics.com/push-button-switch-caps-black-color-5x8-85-mm.html,
+,"Push button caps, for 6mm version",2,,https://www.taydaelectronics.com/push-button-switch-caps-black-color-6-x-5-mm.html,
+,Potentiometer knobs,4,,https://www.taydaelectronics.com/knob-davies-1900h-clone-black.html,
+,14 pin socket,1,,https://www.taydaelectronics.com/14-pin-dip-ic-socket-adaptor-solder-type.html,
+,8 pin socket,1,,https://www.taydaelectronics.com/8-pin-dip-ic-socket-adaptor-solder-type.html,
